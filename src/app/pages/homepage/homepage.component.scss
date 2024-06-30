@@ -1,0 +1,14 @@
+#BackToMain {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999; 
+}
+
+.card-body {
+    transition: height 0.3s;
+  }
+  
+  .d-none {
+    display: none !important;
+  }
